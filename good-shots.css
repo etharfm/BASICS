@@ -1,0 +1,59 @@
+.icon {
+    background-color:lightgoldenrodyellow;
+    display: table-cell;
+    text-align: center;
+    margin: 48px;
+    border: black;
+    border-style: dashed;
+    border-width: 6px;
+    font-size: 25px;
+    font-family: fantasy;
+}
+body{
+    background-color:rgb(243, 243, 243);
+}   
+span{
+    font-size: 30px;
+} 
+
+
+.about{
+    color: black
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+h1{
+    font-size: 50px;
+    font-family: fantasy;
+    text-align: center;
+    border-bottom: double;
+    border-top: double;
+    color: rgb(2, 5, 5);
+    border-color: lightgoldenrodyellow;
+    background-color:rgba(111, 48, 148, 0.534);
+}
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center; 
+    color: rgb(44, 39, 39);
+}
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 55px;
+}
+.ins
+{
+    width:1000px;
+     height:500px;
+}
+div:hover{
+    border-color:rgba(111, 48, 148);
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: purple;
+    text-align: center;
+}
